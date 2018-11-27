@@ -1,0 +1,24 @@
+{
+  "name": "ghkeys",
+  "version": "1.0.0",
+  "description": "ghkeys [github username] | gpg --import",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmhilton/ghkeys.git"
+  },
+  "keywords": [],
+  "author": "William Hilton <wmhilton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmhilton/ghkeys/issues"
+  },
+  "homepage": "https://github.com/wmhilton/ghkeys#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
