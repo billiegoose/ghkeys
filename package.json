@@ -1,6 +1,6 @@
 {
   "name": "ghkeys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ghkeys [github username] | gpg --import",
   "main": "index.js",
   "bin": "cli.js",
